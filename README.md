@@ -1,10 +1,10 @@
 # RFPopupMenu
 RFPopupMenu is popupMenu is support  six pop directions.
 ***It is very easy to use!***
-> It supports three types view.
-1. Only a image.
-2. Only a label.
-3. a image on left and a label on right.
+### It supports three types view.
+> 1. Only a image.
+> 2. Only a label.
+> 3. a image on left and a label on right.
 
 
 ##  Requirements
