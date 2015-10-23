@@ -1,6 +1,7 @@
 # RFPopupMenu
 RFPopupMenu is popupMenu is support  six pop directions.
 ***It is very easy to use!***
+
 ### It supports three types view.
 > 1. Only a image.
 > 2. Only a label.
@@ -46,6 +47,7 @@ self.popupMenu.arrowHorizontalOffset = 90.f;
 ##Screenshot
 
 ![(Screenshot)](https://github.com/wangruofeng/RFPopupMenu/blob/master/Sample.gif)
+
 
 
 ##  Download
