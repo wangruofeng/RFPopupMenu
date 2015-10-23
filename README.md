@@ -44,7 +44,7 @@ self.popupMenu.arrowHorizontalOffset = 90.f;
 ```
 
 ##Screenshot
-![(Screenshot)](https://github.com/wangruofeng/RFSPopupMenu/raw/master/Sample.gif)
+![(Screenshot)](https://github.com/wangruofeng/RFSPopupMenu/blob/master/Sample.gif)
 
 
 ##  Download
