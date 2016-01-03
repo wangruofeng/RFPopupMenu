@@ -1,9 +1,12 @@
 //
 //  RFPopupMenuContentView.m
-//  RFPopupMenuDemo
+//  RFPopupMenuDemo <https://github.com/wangruofeng/RFPopupMenu>
 //
 //  Created by 王若风 on 15/10/20.
 //  Copyright © 2015年 王若风. All rights reserved.
+//
+//  This source code is licensed under the MIT-style license found in the
+//  LICENSE file in the root directory of this source tree.
 //
 
 #import "RFPopupMenuContentView.h"
